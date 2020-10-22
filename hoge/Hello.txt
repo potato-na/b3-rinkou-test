@@ -1,0 +1,7 @@
+print("Hello, World")
+
+print("Today's Music") 
+
+def TheCorrs():
+	print("only when I sleep")
+	print("master")
